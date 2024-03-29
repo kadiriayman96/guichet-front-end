@@ -178,10 +178,10 @@ li .center-button {
 .card {
   width: 300px;
   height: 400px;
-  border: 3px solid gray;
+  border: 1px solid gray;
   border-radius: 10px;
   margin: 10px;
-  box-shadow: 0 4px 6px;
+  box-shadow: 0 0 5px;
 }
 
 .card:hover {
